@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+
+.glass{
+  position: relative;
+}
+.position-glass{
+  position: absolute;
+  top: 15%;
+  left: 25%;
+}
