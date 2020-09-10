@@ -1,2 +1,2 @@
 # A litle project Try Glasses Reactjs
-#### change glasses when you click work with State & Props
+#### change glasses when you click. Work with State & Props
